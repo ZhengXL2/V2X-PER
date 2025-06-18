@@ -29,14 +29,13 @@ Stay tuned! We are actively maintaining and improving the codebase.
 
 ```bash
 # Clone the repository
-
-## 🙏 Acknowledgements
+```
 
 ## 🙏 Acknowledgements
 
 This project builds upon the efforts of the open-source community. We sincerely thank the authors and contributors of the following projects that inspired or supported our work:
 
-- The codebase is partially based on [CoAlign](https://github.com/yifanlu0227/CoAlign), a strong baseline for pose-aware cooperative perception.
+- The codebase is partially based on [CoAlign](https://github.com/yifanlu0227/CoAlign).
 
 We also gratefully acknowledge the broader research community working on multi-agent cooperative perception and V2X systems.
 
