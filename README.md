@@ -30,12 +30,16 @@ Stay tuned! We are actively maintaining and improving the codebase.
 ```bash
 # Clone the repository
 ```
+## V2X-PER Checkpoints
+
+- [V2X-PER DAIR-V2X](https://your.pan.link/OPV2V_checkpoint)
+
 
 ## 🙏 Acknowledgements
 
 This project builds upon the efforts of the open-source community. We sincerely thank the authors and contributors of the following projects that inspired or supported our work:
 
-- The codebase is partially based on [CoAlign](https://github.com/yifanlu0227/CoAlign).
+- The codebase is partially based on [CoAlign](https://pan.baidu.com/s/1jPaaAR8x9V-6CAeh4B-YLw?pwd=ue7k).
 
 We also gratefully acknowledge the broader research community working on multi-agent cooperative perception and V2X systems.
 
