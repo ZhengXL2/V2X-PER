@@ -30,6 +30,15 @@ Stay tuned! We are actively maintaining and improving the codebase.
 ```bash
 # Clone the repository
 
+## 🙏 Acknowledgements
+
+This project builds upon the efforts of the open-source community. We sincerely thank the authors and contributors of the following projects, which inspired or supported our work:
+
+The code is based on [CoAlign](https://github.com/yifanlu0227/CoAlign)
+
+We also gratefully acknowledge the contributions of all researchers working on multi-agent cooperative perception and V2X systems.
+
+If you use this codebase in your research, please consider citing our work and giving a ⭐️ to support the project.
 
 
 
