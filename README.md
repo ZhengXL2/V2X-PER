@@ -11,8 +11,8 @@ We plan to open-source the project in several phases to ensure code quality, doc
 
 | Phase | Content                                                                 | Status     |
 |-------|-------------------------------------------------------------------------|------------|
-| 1️⃣   | Release model architecture and core modules (e.g., NSFM, PRAF, etc.)     | ⬜ Completed |
-| 2️⃣   | Provide training & evaluation scripts, pretrained models                 | 🔄 In Progress |
+| 1️⃣   | Release model architecture and core modules (e.g., NSFM, PRAF, etc.)     | 🔄 Completed |
+| 2️⃣   | Provide training & evaluation scripts, pretrained models                 | ⬜ In Progress |
 | 3️⃣   | Release dataset preprocessing tools and visualization utilities         | ⬜ Pending |
 | 4️⃣   | Publish benchmark results & detailed documentation                       | ⬜ Pending |
 
