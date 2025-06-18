@@ -11,8 +11,8 @@ We plan to open-source the project in several phases to ensure code quality, doc
 
 | Phase | Content                                                                 | Status     |
 |-------|-------------------------------------------------------------------------|------------|
-| 1️⃣   | Release model architecture                                               | 🔄 Completed |
-| 2️⃣   | Provide training & evaluation scripts, pretrained models                 | ⬜ In Progress |
+| 1️⃣   | Release model architecture                                               | 🔄 In Progress |
+| 2️⃣   | Provide training & evaluation scripts, pretrained models                 | ⬜ Pending |
 | 3️⃣   | Release dataset preprocessing tools and visualization utilities         | ⬜ Pending |
 | 4️⃣   | Publish benchmark results & detailed documentation                       | ⬜ Pending |
 
@@ -34,7 +34,7 @@ Stay tuned! We are actively maintaining and improving the codebase.
 
 This project builds upon the efforts of the open-source community. We sincerely thank the authors and contributors of the following projects, which inspired or supported our work:
 
-The code is based on [CoAlign](https://github.com/yifanlu0227/CoAlign)
+The code is based on [CoAlign](https://github.com/yifanlu0227/CoAlign)  
 
 We also gratefully acknowledge the contributions of all researchers working on multi-agent cooperative perception and V2X systems.
 
