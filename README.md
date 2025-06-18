@@ -11,7 +11,7 @@ We plan to open-source the project in several phases to ensure code quality, doc
 
 | Phase | Content                                                                 | Status     |
 |-------|-------------------------------------------------------------------------|------------|
-| 1️⃣   | Release model architecture and core modules (e.g., NSFM, PRAF, etc.)     | 🔄 Completed |
+| 1️⃣   | Release model architecture                                               | 🔄 Completed |
 | 2️⃣   | Provide training & evaluation scripts, pretrained models                 | ⬜ In Progress |
 | 3️⃣   | Release dataset preprocessing tools and visualization utilities         | ⬜ Pending |
 | 4️⃣   | Publish benchmark results & detailed documentation                       | ⬜ Pending |
@@ -24,27 +24,12 @@ Stay tuned! We are actively maintaining and improving the codebase.
 
 ### Requirements
 
-- Python >= 3.8  
-- PyTorch >= 1.10  
-- CUDA >= 11.1  
-- GCC >= 7.3  
-- Ubuntu 18.04 or higher  
-- (Optional) ROS / Apollo for simulation integration
 
 ### Setup
 
 ```bash
 # Clone the repository
-git clone https://github.com/your_username/your_project_name.git
-cd your_project_name
 
-# (Optional) Create and activate a virtual environment
-conda create -n collab-perception python=3.9
-conda activate collab-perception
 
-# Install dependencies
-pip install -r requirements.txt
 
-# Compile CUDA extensions (if any)
-cd ops
-python setup.py install
+
