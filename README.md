@@ -32,13 +32,13 @@ Stay tuned! We are actively maintaining and improving the codebase.
 
 ## 🙏 Acknowledgements
 
-This project builds upon the efforts of the open-source community. We sincerely thank the authors and contributors of the following projects, which inspired or supported our work:
+This project builds upon the efforts of the open-source community. We sincerely thank the authors and contributors of the following projects that inspired or supported our work:
 
-The code is based on [CoAlign](https://github.com/yifanlu0227/CoAlign)  
+- The codebase is partially based on [CoAlign](https://github.com/yifanlu0227/CoAlign),
 
-We also gratefully acknowledge the contributions of all researchers working on multi-agent cooperative perception and V2X systems.
+We also gratefully acknowledge the broader research community working on multi-agent cooperative perception and V2X systems.
 
-If you use this codebase in your research, please consider citing our work and giving a ⭐️ to support the project.
+If you find this project helpful in your research, please consider citing our work and giving a ⭐️ to support ongoing development.
 
 
 
