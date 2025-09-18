@@ -7,7 +7,9 @@ This repository provides the official implementation of our one-stage collaborat
 ## 🎥 Demo
 
 This is our self-collected V2I dataset, and the following visualization shows inference results on the V2X-PER model:
+
 ![V2X-PER Demo](V2I_demo.gif)
+
 
 ## 📌 Open Source Roadmap
 
