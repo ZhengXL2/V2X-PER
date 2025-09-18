@@ -4,6 +4,10 @@ V2X-PER: A Pose-Robust One-Stage BEV Fusion Framework for Multi-Agent Collaborat
 This repository provides the official implementation of our one-stage collaborative perception framework for multi-agent autonomous driving scenarios. It features end-to-end sensor fusion, robust spatial alignment, and enhanced perception under pose perturbations.
 
 ---
+## 🎥 Demo
+
+This is our self-collected V2I dataset, and the following visualization shows inference results on the V2X-PER model:
+![V2X-PER Demo](V2I_demo.gif)
 
 ## 📌 Open Source Roadmap
 
